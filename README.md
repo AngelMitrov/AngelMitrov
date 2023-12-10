@@ -8,58 +8,43 @@
 
 [![GitHub Logo](https://img.shields.io/badge/GitHub-Follow_me-black?logo=github&style=for-the-badge)](https://github.com/AngelMitrov)
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    <h2>👨‍💻 About Me</h2>
-  <div style="flex: 1; min-width: 300px;">
-    <h3>💼 Working at <strong>Qinshift</strong></h3>
-    <h3>🔭 Currently crafting solutions with:</h3>
-    <ul>
-      <li>🌐 <strong>Banking Systems</strong></li>
-      <li>🔗 <strong>Integrations</strong></li>
-      <li>☁️ <strong>Azure Serverless</strong></li>
-      <li>💻 <strong>.NET</strong></li>
-      <li>🐳 <strong>Docker</strong></li>
-      <li>🐧 <strong>Linux</strong></li>
-    </ul>
-  </div>
+## 👨‍💻 About Me
 
-  <div style="flex: 1; min-width: 300px;">
-    <h3>🌱 Currently wrestling with:</h3>
-    <ul>
-      <li>🔐 <strong>Multi-Tenancy</strong></li>
-      <li>🛠️ <strong>CQRS</strong></li>
-      <li>🚀 <strong>MediatR</strong></li>
-      <li>🔔 <strong>SignalR</strong></li>
-    </ul>
-  </div>
+### 💼 Working at **Qinshift**
+###  🔭 Currently working with:
+  - 🌐 **Banking Systems**
+  - 🔗 **Integrations**
+  - ☁️ **Azure Serverless**
+  - 💻 **.NET**
+  - 🐳 **Docker**
+  - 🐧 **Linux**
 
-  <div style="flex: 1; min-width: 300px;">
-    <h3>💬 <strong>Feel free to pick my brain on topics like:</strong></h3>
-    <ul>
-      <li>☁️ <strong>Azure</strong></li>
-      <li>💻 <strong>.NET</strong></li>
-      <li>🌐 <strong>RESTful APIs</strong></li>
-      <li>🏗️ <strong>Architectures & Design Patterns</strong></li>
-      <li>🅰️ <strong>Angular</strong></li>
-      <li>⚛️ <strong>React</strong></li>
-      <li>📊 <strong>SQL & NoSQL</strong></li>
-      <li>🐳 <strong>Docker</strong></li>
-      <li>🐧 <strong>Linux</strong></li>
-    </ul>
-  </div>
-<div style="flex: 1; min-width: 300px;">
-    <h3>In my free time:</h3>
-    <ul>
-      <li>🏋️‍♂️ <strong>Pumping iron at the gym</strong></li>
-      <li>🎸 <strong>Unleashing my inner rockstar</strong></li>
-      <li>💻 <strong>Crafting a revolutionary SaaS app that will transform the restaurant industry</strong></li>
-    </ul>
-</div>
-</div>
+### 🌱 Learning:
+  - 🔐 **Multi-Tenancy**
+  - 🛠️ **CQRS**
+  - 🚀 **MediatR**
+  - 🔔 **SignalR**
 
-<hr/>
+
+### 💬 Feel free to pick my brain on topics like:
+- ☁️ **Azure**
+- 💻 **.NET**
+- 🌐 **RESTful APIs**
+- 🏗️ **Architectures & Design Patterns**
+- 🅰️ **Angular**
+- ⚛️ **React**
+- 📊 **SQL & NoSQL**
+- 🐳 **Docker**
+- 🐧 **Linux**
+
+### In my free time:
+- **🏋️‍♂️ Pumping iron at the gym**
+- **🎸 Unleashing my inner rockstar**
+- **💻 Crafting a revolutionary SaaS app that will transform the restaurant industry**
+
+<br/>
 
 <a href="https://github.com/AngelMitrov">
-  <img height="190em"  src="https://github-readme-stats.vercel.app/api?username=AngelMitrov&count_private=true&show_icons=true&theme=dark&&hide=prs,stars&icon_color=7A6BB5&hide_border=true&title_color=7A6BB5" />
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMitrov&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript&title_color=7A6BB5&theme=dark"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=AngelMitrov&count_private=true&show_icons=true&theme=dark&&hide=prs,stars&icon_color=7A6BB5&hide_border=true&title_color=7A6BB5" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMitrov&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript&title_color=7A6BB5&theme=dark"/>
 </a>
