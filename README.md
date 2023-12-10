@@ -44,7 +44,7 @@
 
 <br/>
 
-<a href="https://github.com/AngelMitrov">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=AngelMitrov&count_private=true&show_icons=true&theme=dark&&hide=prs,stars&icon_color=7A6BB5&hide_border=true&title_color=7A6BB5" />
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelMitrov&count_private=true&show_icons=true&theme=dark&&hide=prs,stars&icon_color=7A6BB5&hide_border=true&title_color=7A6BB5" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelMitrov&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=javascript&title_color=7A6BB5&theme=dark"/>
-</a>
+</p>
