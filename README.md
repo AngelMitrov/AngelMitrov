@@ -42,6 +42,3 @@
 - **🏋️‍♂️ Pumping iron at the gym**
 - **🎸 Unleashing my inner rockstar**
 - **💻 Crafting a revolutionary SaaS app that will transform the restaurant industry**
-
-<br/>
-
