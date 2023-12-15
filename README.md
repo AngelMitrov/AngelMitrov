@@ -1,4 +1,4 @@
-### Hi there, I'm Angel Mitrov! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=AngelMitrov&color=7A6BB5)</div>
+## Hi there, I'm Angel Mitrov! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=AngelMitrov&color=7A6BB5)</div>
 
 [![Website URL](https://img.shields.io/badge/website-Check_it_out-7A6BB5?&style=for-the-badge)](https://www.angelmitrov.com/) 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/angelmitrov/)
