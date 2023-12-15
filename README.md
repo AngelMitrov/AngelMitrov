@@ -1,13 +1,14 @@
 ## Hi there, I'm Angel Mitrov! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=AngelMitrov&color=7A6BB5)</div>
 
+
 [![Website URL](https://img.shields.io/badge/website-Check_it_out-7A6BB5?&style=for-the-badge)](https://www.angelmitrov.com/) 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/angelmitrov/)
 [![Upwork URL](https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?logo=upwork&style=for-the-badge)](https://www.upwork.com/freelancers/angelmitrov)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AngelMitrov&count_private=true&show_icons=true&theme=dracula&&hide=prs,stars&icon_color=7A6BB5&hide_border=true&title_color=7A6BB5" />
+  <img height="182em" src="https://github-readme-stats.vercel.app/api?username=AngelMitrov&count_private=true&show_icons=true&theme=dracula&&hide=prs,stars&icon_color=7A6BB5&hide_border=true&title_color=7A6BB5" />
+  <img width="567em" src="https://github-readme-streak-stats.herokuapp.com?user=AngelMitrov&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=FFFFFF&stroke=7A6BB5&ring=7A6BB5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&sideLabels=7A6BB5&currStreakLabel=7A6BB5" />
 </p>
-
 
 ## 👨‍💻 About Me
 
